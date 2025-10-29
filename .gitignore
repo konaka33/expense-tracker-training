@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment variables (if used)
+.env
+config.js
