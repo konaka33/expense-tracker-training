@@ -6,8 +6,8 @@ const CATEGORIES = ['食費', '交通費', '娯楽費', '日用品', '医療費'
 // ローカルストレージのキー
 const STORAGE_KEY = 'expenses';
 
-// Google Apps Script の Web App URL（後で設定）
-const GAS_WEB_APP_URL = ''; // TODO: GASデプロイ後にURLを設定
+// Google Apps Script の Web App URL
+const GAS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyg48JDhppMqtpsbfEwTwbSjBN8aMaYmgsctGYqcbzP5gfx1NIUD1xsDo9xMMWdO74u/exec';
 
 // LINE Notify トークン（後で設定）
 const LINE_NOTIFY_TOKEN = ''; // TODO: LINE Notifyトークンを設定
